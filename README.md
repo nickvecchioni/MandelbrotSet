@@ -1,5 +1,5 @@
 # Mandelbrot Fractal Zoomer
-![Fractal Zoom](https://im2.ezgif.com/tmp/ezgif-2-bb01fcc42569.gif)
+![Fractal Zoom](https://www.codingame.com/servlet/fileservlet?id=13848520651734)
 
 Project from 61C that generates the Mandelbrot Fractal and lets you zoom in on areas of the graph iteratively based on given command-line arguments.
 Makes extensive use of the Mandelbrot Function, complex numbers, and converting numerical

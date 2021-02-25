@@ -1,2 +1,2 @@
 # Mandelbrot Fractal Zoomer
-![Fractal Zoom](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Mandelbrot_sequence_new.gif/220px-Mandelbrot_sequence_new.gif)
+![Fractal Zoom](https://im2.ezgif.com/tmp/ezgif-2-bb01fcc42569.gif)

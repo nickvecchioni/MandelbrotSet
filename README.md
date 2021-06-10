@@ -10,7 +10,7 @@ All main code is written in C.
 
 `ComplexNumber.c` hosts a representation of complex numbers and operations, necessary for the Mandelbrot Set.
 
-`Mandelbrot.c` generates the pixel-to-color mapping for a singular frame of the Mandelbrot Set.
+`Mandelbrot.c` generates the pixel-to-color mapping for a singular frame of the Mandelbrot Set based on the number of iterations till convergence.
 
 `MandelMovie.c` strings together many calls to `Mandelbrot.c`, returning a video of the Mandelbrot Fractal Zoom.
 

@@ -8,3 +8,5 @@ values to different color palettes.
 Quite beautiful if I do say so myself. 
 
 All main code is written in C.
+
+Since this is a class project, only some files are provided. Hence, this README does not provide instructions for running the program.

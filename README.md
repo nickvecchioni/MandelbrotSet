@@ -5,8 +5,6 @@ Project from 61C that generates the Mandelbrot Fractal and lets you zoom in on a
 Makes extensive use of the Mandelbrot Function, complex numbers, and converting numerical
 values to different color palettes. 
 
-Quite beautiful if I do say so myself. 
-
 All main code is written in C.
 
 Since this is a class project, only some files are provided as reference (in particular, to prevent blatant cheating.) Hence, this README does not provide instructions for running the program, nor does it go into great detail.
